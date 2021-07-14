@@ -26,7 +26,7 @@ Features I don't plan on introducing:
 - Decapitalization. I don't object to it, but decap bases are inconsistent and the work is more tedious than I care to do. Here's a patch if you'd like to add it yourself: [https://www.pokecommunity.com/showthread.php?t=327901](https://www.pokecommunity.com/showthread.php?t=327901).
 - The physical/special split. I *might* add this later down the road, but I believe that doing so would require rebalancing basically every trainer in the game to take into account how different Pokémon become viable or not, plus the adjustment and/or introduction of moves that take the split into account. Emerald wasn't designed with the split so I'd rather just let it be. 
 
-Further documentation is available on the [wiki](link). 
+Further documentation is available on the [wiki](https://github.com/jeffreymoro/pokeemerald/wiki). 
 
 You can download the .ips patch to apply to a clean ROM of Pokémon Emerald (USA, Europe) [here](link). The MD5 of the original ROM should be 605b89b67018abcea91e693a4dd25be3. 
 
