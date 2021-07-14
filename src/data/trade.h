@@ -1065,7 +1065,7 @@ static const struct InGameTrade sIngameTrades[] =
         .otName = _("WISHMKR"), 
         .otGender = FEMALE, 
         .sheen = 10,
-        .requestedSpecies = SPECIES_DRATINI
+        .requestedSpecies = SPECIES_DUNSPARCE
     }
 };
 

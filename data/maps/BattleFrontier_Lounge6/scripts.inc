@@ -76,5 +76,5 @@ BattleFrontier_Lounge6_Text_WellThatsFineToo: @ 82651CB
 
 BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined: @ 826520E
 	.string "Giggle!\n"
-	.string "A DRATINI is so much cuter than I had\l"
+	.string "A DUNSPARCE is so much cuter than I had\l"
 	.string "imagined. I'm delighted!$"
