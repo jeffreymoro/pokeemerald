@@ -3259,9 +3259,9 @@ u8 ItemBattleEffects(u8 caseID, u8 battlerId, bool8 moveTurn)
     case ITEMEFFECT_ON_SWITCH_IN:
         switch (battlerHoldEffect)
         {
-        case HOLD_EFFECT_DOUBLE_PRIZE:
+        case HOLD_EFFECT_TRIPLE_PRIZE:
             if (GetBattlerSide(battlerId) == B_SIDE_PLAYER)
-                gBattleStruct->moneyMultiplier = 2;
+                gBattleStruct->moneyMultiplier = 3;
             break;
         case HOLD_EFFECT_RESTORE_STATS:
             for (i = 0; i < NUM_BATTLE_STATS; i++)
