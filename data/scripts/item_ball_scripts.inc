@@ -516,8 +516,9 @@ AquaHideout_B1F_EventScript_ItemMasterBall:: @ 8291358
 	finditem ITEM_MASTER_BALL
 	end
 
-AquaHideout_B1F_EventScript_ItemNugget:: @ 8291365
-	finditem ITEM_NUGGET
+AquaHideout_B1F_EventScript_ItemAuroraTicket:: @ 8291365
+	setflag FLAG_ENABLE_SHIP_BIRTH_ISLAND
+	finditem ITEM_AURORA_TICKET
 	end
 
 AquaHideout_B1F_EventScript_ItemMaxElixir:: @ 8291372
@@ -552,8 +553,9 @@ ShoalCave_LowTideInnerRoom_EventScript_ItemRareCandy:: @ 82913CD
 	finditem ITEM_RARE_CANDY
 	end
 
-ShoalCave_LowTideStairsRoom_EventScript_ItemIceHeal:: @ 82913DA
-	finditem ITEM_ICE_HEAL
+ShoalCave_LowTideStairsRoom_EventScript_ItemOldSeaMap:: @ 82913DA
+	setflag FLAG_ENABLE_SHIP_FARAWAY_ISLAND
+	finditem ITEM_OLD_SEA_MAP
 	end
 
 ShoalCave_LowTideIceRoom_EventScript_ItemTM07:: @ 82913E7
