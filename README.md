@@ -25,6 +25,7 @@ Features I don't plan on introducing:
 
 - Decapitalization. I don't object to it, but decap bases are inconsistent and the work is more tedious than I care to do. Here's a patch if you'd like to add it yourself: [https://www.pokecommunity.com/showthread.php?t=327901](https://www.pokecommunity.com/showthread.php?t=327901).
 - The physical/special split. I *might* add this later down the road, but I believe that doing so would require rebalancing basically every trainer in the game to take into account how different Pokémon become viable or not, plus the adjustment and/or introduction of moves that take the split into account. Emerald wasn't designed with the split so I'd rather just let it be. 
+- Increased difficulty. It's just not my vibe. 
 
 Further documentation is available on the [wiki](https://github.com/jeffreymoro/pokeemerald/wiki). 
 
