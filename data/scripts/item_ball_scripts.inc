@@ -298,8 +298,9 @@ Route134_EventScript_ItemCarbos:: @ 829109A
 	finditem ITEM_CARBOS
 	end
 
-Route134_EventScript_ItemStarPiece:: @ 82910A7
-	finditem ITEM_STAR_PIECE
+Route134_EventScript_ItemEonTicket:: @ 82910A7
+	finditem ITEM_EON_TICKET
+	setflag FLAG_ENABLE_SHIP_SOUTHERN_ISLAND
 	end
 
 PetalburgCity_EventScript_ItemMaxRevive:: @ 82910B4
