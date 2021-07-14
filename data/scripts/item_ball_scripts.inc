@@ -443,8 +443,9 @@ AbandonedShip_CaptainsOffice_EventScript_ItemStorageKey:: @ 829126E
 	finditem ITEM_STORAGE_KEY
 	end
 
-AbandonedShip_HiddenFloorRooms_EventScript_ItemLuxuryBall:: @ 829127B
-	finditem ITEM_LUXURY_BALL
+AbandonedShip_HiddenFloorRooms_EventScript_ItemMysticTicket:: @ 829127B
+	setflag FLAG_ENABLE_SHIP_NAVEL_ROCK
+	finditem ITEM_MYSTIC_TICKET
 	end
 
 AbandonedShip_HiddenFloorRooms_EventScript_ItemScanner:: @ 8291288
