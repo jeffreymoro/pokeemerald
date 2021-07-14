@@ -28,7 +28,7 @@ Features I don't plan on introducing:
 
 Further documentation is available on the [wiki](https://github.com/jeffreymoro/pokeemerald/wiki). 
 
-You can download the .ips patch to apply to a clean ROM of Pokémon Emerald (USA, Europe) [here](link). The MD5 of the original ROM should be 605b89b67018abcea91e693a4dd25be3. 
+You can download the .ips patch to apply to a clean ROM of Pokémon Emerald (USA, Europe) [here](https://github.com/jeffreymoro/pokeemerald/releases). The MD5 of the original ROM should be 605b89b67018abcea91e693a4dd25be3. 
 
 I am indebted to: 
 
