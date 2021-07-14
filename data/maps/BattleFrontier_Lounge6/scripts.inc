@@ -5,7 +5,7 @@ BattleFrontier_Lounge6_EventScript_Trader:: @ 8264FED
 	lock
 	faceplayer
 	goto_if_set FLAG_BATTLE_FRONTIER_TRADE_DONE, BattleFrontier_Lounge6_EventScript_TradeCompleted
-	setvar VAR_0x8008, INGAME_TRADE_MEOWTH
+	setvar VAR_0x8008, INGAME_TRADE_JIRACHI
 	copyvar VAR_0x8004, VAR_0x8008
 	specialvar VAR_RESULT, GetInGameTradeSpeciesInfo
 	copyvar VAR_0x8009, VAR_RESULT
@@ -76,5 +76,5 @@ BattleFrontier_Lounge6_Text_WellThatsFineToo: @ 82651CB
 
 BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined: @ 826520E
 	.string "Giggle!\n"
-	.string "A SKITTY is so much cuter than I had\l"
+	.string "A DRATINI is so much cuter than I had\l"
 	.string "imagined. I'm delighted!$"
