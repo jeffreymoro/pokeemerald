@@ -22,12 +22,12 @@ BattleFrontier_Mart_Pokemart: @ 8267AE4
 	.2byte ITEM_FULL_HEAL
 	.2byte ITEM_REVIVE
 	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_PROTEIN
-	.2byte ITEM_CALCIUM
-	.2byte ITEM_IRON
-	.2byte ITEM_ZINC
-	.2byte ITEM_CARBOS
-	.2byte ITEM_HP_UP
+	.2byte ITEM_FIRE_STONE
+	.2byte ITEM_THUNDER_STONE
+	.2byte ITEM_WATER_STONE
+	.2byte ITEM_LEAF_STONE
+	.2byte ITEM_SUN_STONE
+	.2byte ITEM_MOON_STONE
 	.2byte ITEM_NONE
 	release
 	end
