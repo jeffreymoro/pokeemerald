@@ -1347,7 +1347,7 @@ static const u8 sHowlDescription[] = _(
 
 static const u8 sDragonClawDescription[] = _(
     "Slashes the foe with sharp\n"
-    "claws.");
+    "claws. May cause flinching");
 
 static const u8 sFrenzyPlantDescription[] = _(
     "Powerful, but leaves the\n"
