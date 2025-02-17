@@ -8010,6 +8010,7 @@ const u32 gTMHMLearnsets[][2] =
                                         | TMHM(TM23_IRON_TAIL)
                                         | TMHM(TM26_EARTHQUAKE)
                                         | TMHM(TM27_RETURN)
+                                        | TMHM(TM29_PSYCHIC)
                                         | TMHM(TM32_DOUBLE_TEAM)
                                         | TMHM(TM35_FLAMETHROWER)
                                         | TMHM(TM38_FIRE_BLAST)
