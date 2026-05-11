@@ -28,6 +28,8 @@ BattleFrontier_Mart_Pokemart: @ 8267AE4
 	.2byte ITEM_LEAF_STONE
 	.2byte ITEM_SUN_STONE
 	.2byte ITEM_MOON_STONE
+  .2byte ITEM_UP_GRADE
+  .2byte ITEM_METAL_COAT
 	.2byte ITEM_NONE
 	release
 	end
