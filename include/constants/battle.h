@@ -302,8 +302,8 @@
 #define BATTLE_TERRAIN_BUILDING     8
 #define BATTLE_TERRAIN_PLAIN        9
 
-#define B_WAIT_TIME_LONG  64
-#define B_WAIT_TIME_MED   48
-#define B_WAIT_TIME_SHORT 32
+#define B_WAIT_TIME_LONG  32 // halved
+#define B_WAIT_TIME_MED   24 // halved
+#define B_WAIT_TIME_SHORT 16 // halved
 
 #endif // GUARD_CONSTANTS_BATTLE_H
