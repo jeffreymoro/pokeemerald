@@ -182,8 +182,8 @@ static void BattleIntroSlide1(u8 taskId)
         if ((gBattle_WIN0V & 0xFF00) == 0x3000)
         {
             gTasks[taskId].tState++;
-            gTasks[taskId].data[2] = 240;
-            gTasks[taskId].data[3] = 32;
+            gTasks[taskId].data[2] = 120; // halved
+            gTasks[taskId].data[3] = 16; // halved
             gIntroSlideFlags &= ~1;
         }
         break;
@@ -290,8 +290,8 @@ static void BattleIntroSlide2(u8 taskId)
         if ((gBattle_WIN0V & 0xFF00) == 0x3000)
         {
             gTasks[taskId].tState++;
-            gTasks[taskId].data[2] = 240;
-            gTasks[taskId].data[3] = 32;
+            gTasks[taskId].data[2] = 120; // halved
+            gTasks[taskId].data[3] = 16; // halved
             gTasks[taskId].data[5] = 1;
             gIntroSlideFlags &= ~1;
         }
@@ -383,8 +383,8 @@ static void BattleIntroSlide3(u8 taskId)
         if ((gBattle_WIN0V & 0xFF00) == 0x3000)
         {
             gTasks[taskId].tState++;
-            gTasks[taskId].data[2] = 240;
-            gTasks[taskId].data[3] = 32;
+            gTasks[taskId].data[2] = 120; // halved
+            gTasks[taskId].data[3] = 16; // halved
             gTasks[taskId].data[5] = 1;
             gIntroSlideFlags &= ~1;
         }
@@ -479,8 +479,8 @@ static void BattleIntroSlideLink(u8 taskId)
         if ((gBattle_WIN0V & 0xFF00) == 0x3000)
         {
             gTasks[taskId].tState++;
-            gTasks[taskId].data[2] = 240;
-            gTasks[taskId].data[3] = 32;
+            gTasks[taskId].data[2] = 120; // halved
+            gTasks[taskId].data[3] = 16; // halved
             gIntroSlideFlags &= ~1;
         }
         break;
